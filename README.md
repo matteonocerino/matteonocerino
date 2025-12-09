@@ -45,7 +45,7 @@ Currently completing my Bachelor's degree with a thesis on AI in medical educati
 *Analysis and remediation of common vulnerabilities (XSS, SQLi, Weak Auth) across three target applications.*
 * **Tech:** Java EE, JSP, JavaScript
 * **Focus:** OWASP Top 10, Secure Coding, Vulnerability Assessment
-* **Repositories:** [App A](https://github.com/matteonocerino/a) • [App K](https://github.com/matteonocerino/k) • [App K2](https://github.com/matteonocerino/k2)
+* **Repositories:** [App K](https://github.com/matteonocerino/k) • [App K2](https://github.com/matteonocerino/k2)
 
 #### 🌉 **SocialBridge**
 *Web platform promoting accessible social events (Team of 7).*
