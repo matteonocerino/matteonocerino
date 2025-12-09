@@ -39,6 +39,7 @@ Currently completing my Bachelor's degree with a thesis on AI in medical educati
 *AI-powered virtual patient simulator for psychiatric training.*
 * **Tech:** Python, Streamlit, Google Gemini API, LangChain
 * **Focus:** Prompt Engineering, Conversational AI, Medical Education
+* **Repository:** [TALDLab](https://github.com/matteonocerino/TALDLab)
 
 #### 🔐 **Web Security Projects**
 *Analysis and remediation of common vulnerabilities (XSS, SQLi, Weak Auth) across three target applications.*
