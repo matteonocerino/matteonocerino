@@ -6,7 +6,6 @@ I'm a Computer Science student at the University of Salerno, passionate about **
 - 🔐 Focused on **offensive security** and ethical hacking
 - 🤖 Exploring **Generative AI** applications in healthcare
 - 💻 Building secure, scalable web applications
-- 📚 Currently working on my thesis: **TALDLab** - an AI-powered virtual patient simulator for psychiatric training
 
 ---
 
