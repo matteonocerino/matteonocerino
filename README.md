@@ -1,11 +1,11 @@
 # Hi there, I'm Matteo 👋
 
 ### 🎓 About Me
-I'm a Computer Science student at the **University of Salerno**, passionate about **Cybersecurity** and **Artificial Intelligence**.
-Currently completing my Bachelor's degree with a thesis on AI in medical education, and planning to pursue a Master's in Cybersecurity.
+I'm a **Computer Science Graduate** from the University of Salerno, currently pursuing a **Master's degree in Cybersecurity**.
+My academic background combines a strong foundation in software development with a growing expertise in security protocols. I graduated with a thesis focused on the application of AI in medical education.
 
-* 🔐 Focused on **Offensive Security**, **Web Vulnerabilities**, and **Ethical Hacking**.
-* 💻 Experienced in **Java Ecosystem**, **SQL**, and **Full-Stack Web Dev**.
+- 🔐 **Current Focus:** Specializing in Offensive Security, Web Vulnerabilities, and Ethical Hacking.
+- 💻 **Technical Stack:** Experienced in the Java Ecosystem, SQL, and Full-Stack Web Development.
 
 ---
 
