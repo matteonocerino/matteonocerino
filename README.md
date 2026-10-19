@@ -80,7 +80,7 @@ My background in full-stack software development gives me a strategic edge: know
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=matteonocerino&color=blue&style=flat-square&label=Profile+Views" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=matteonocerino&color=blue&style=flat-square&label=Profile+Views&v=2" alt="Profile views"/>
 </div>
 
 <div align="center">
