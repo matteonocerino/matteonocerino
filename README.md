@@ -38,7 +38,7 @@ My background in full-stack software development gives me a strategic edge: know
 *Vulnerability research, manual exploitation, and source code patching of critical flaws (XSS, SQLi, Broken Auth) in vulnerable target applications.*
 * **Tech:** Java EE, JSP, JavaScript
 * **Focus:** Penetration Testing, OWASP Top 10, Secure Coding
-* **Repositories:** [App K](https://github.com/matteonocerino/k) • [App K2](https://github.com/matteonocerino/k2)
+* **Repositories:** [App K2](https://github.com/matteonocerino/k2) • [App K](https://github.com/matteonocerino/k)
 
 #### 🏥 **TALDLab (Thesis Project)**
 *AI-powered virtual patient simulator for psychiatric training.*
