@@ -80,7 +80,7 @@ My background in full-stack software development gives me a strategic edge: know
 ---
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=matteonocerino.matteonocerino&color=blue" alt="Profile views"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=matteonocerino.matteonocerino&left_text=Profile%20Views&color=blue" alt="Profile views"/>
 </div>
 
 <div align="center">
