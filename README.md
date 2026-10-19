@@ -53,7 +53,7 @@ My background in full-stack software development gives me a strategic edge: know
 * **Repository:** [MusicEventManager](https://github.com/matteonocerino/MusicEventManager)
 
 #### 🌉 **SocialBridge**
-*Web platform promoting accessible social events, developed in an Agile team of 7 via Pair Programming.*
+*Web platform promoting accessible social events, developed in a team of 7 via Pair Programming.*
 * **Tech:** React.js, Node.js, MongoDB
 * **My Role:** Backend architecture, RESTful API design, data modeling, and Unit Testing.
 * **Repository:** [SocialBridge](https://github.com/matteonocerino/SocialBridge)
