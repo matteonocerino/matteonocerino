@@ -23,7 +23,6 @@ My background in full-stack software development gives me a strategic edge: know
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![OWASP](https://img.shields.io/badge/-OWASP-000000?style=flat&logo=owasp&logoColor=white)
 ![Google AI](https://img.shields.io/badge/-Google_AI-4285F4?style=flat&logo=google&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 
 **Web Development & Databases**  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
@@ -36,33 +35,33 @@ My background in full-stack software development gives me a strategic edge: know
 ### 🚀 Featured Projects
 
 #### 🔐 **Web Security Projects**
-*Analysis and remediation of common vulnerabilities (XSS, SQLi, Weak Auth) across three target applications.*
+*Vulnerability research, manual exploitation, and source code patching of critical flaws (XSS, SQLi, Broken Auth) in vulnerable target applications.*
 * **Tech:** Java EE, JSP, JavaScript
-* **Focus:** OWASP Top 10, Secure Coding, Vulnerability Assessment
+* **Focus:** Penetration Testing, OWASP Top 10, Secure Coding
 * **Repositories:** [App K](https://github.com/matteonocerino/k) • [App K2](https://github.com/matteonocerino/k2)
 
 #### 🏥 **TALDLab (Thesis Project)**
 *AI-powered virtual patient simulator for psychiatric training.*
-* **Tech:** Python, Streamlit, Google Gemini API, LangChain
+* **Tech:** Python, Streamlit, Google Gemini API
 * **Focus:** Prompt Engineering, Conversational AI, Medical Education
 * **Repository:** [TALDLab](https://github.com/matteonocerino/TALDLab)
 
 #### 🎵 **MusicEvent Manager**
-*Platform for managing concerts, venue geospatial data, and ticketing.*
+*Platform for managing concerts, venue geospatial data, and ticketing, developed in a team of 3.*
 * **Tech:** Python (Flask, Streamlit), MongoDB (NoSQL), REST API
 * **Focus:** NoSQL Database Design, Geospatial Queries, Data Aggregation
 * **Repository:** [MusicEventManager](https://github.com/matteonocerino/MusicEventManager)
 
 #### 🌉 **SocialBridge**
-*Web platform promoting accessible social events (Team of 7).*
+*Web platform promoting accessible social events, developed in an Agile team of 7 via Pair Programming.*
 * **Tech:** React.js, Node.js, MongoDB
-* **My Role:** Backend development, API integration, and writing Test Cases.
+* **My Role:** Backend architecture, RESTful API design, data modeling, and Unit Testing.
 * **Repository:** [SocialBridge](https://github.com/matteonocerino/SocialBridge)
 
 #### 🛹 **YourSkates**
-*E-commerce platform for skateboarding gear with admin dashboard.*
+*Full-stack e-commerce platform featuring a role-based Admin Dashboard, developed in a team of 2 via Pair Programming.*
 * **Tech:** Java EE (JSP/Servlet), MySQL, AJAX, JavaScript
-* **My Role:** Frontend development, UI/UX design, and interactivity.
+* **My Role:** Frontend architecture, client-side logic, and UI/UX implementation.
 * **Repository:** [TSW](https://github.com/matteonocerino/TSW)
 
 ---
