@@ -47,7 +47,7 @@ My background in full-stack software development gives me a strategic edge: know
 *Exploration of Quantum Machine Learning for Phishing URL Detection and simulation of the M2M-MQSS cryptographic protocol in restricted quantum environments.*
 * **Tech:** Python, Jupyter, Qiskit, NetSquid, Scikit-Learn
 * **Focus:** Quantum Machine Learning (QSVC, VQC), Quantum Secret Sharing (QSS), NISQ Limitations
-* **Repository:** [Quantum-Security-UNISA](https://github.com/matteonocerino/Quantum-Security-UNISA)
+* **Repository:** [Quantum-Security-UNISA](https://github.com/matteonocerino/Quantum-Security)
 
 #### 🏥 **TALDLab (Thesis Project)**
 *AI-powered virtual patient simulator for psychiatric training.*
